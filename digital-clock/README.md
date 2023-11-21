@@ -1,4 +1,6 @@
-# digital clock
+# Digital clock project made with HTML, CSS and JS 
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/laura_dsc/pen/YzLeOjM](https://codepen.io/laura_dsc/pen/YzLeOjM).
+
+https://github.com/lauradsc/Digital-clock/assets/99484087/32da7dbb-a047-49a5-8932-688e39c50d3b
+
 
