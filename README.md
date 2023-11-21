@@ -4,5 +4,9 @@ A simple project of a digital clock
 
 
 
-https://github.com/lauradsc/Digital-clock/assets/99484087/e2c3777d-36aa-4d50-aa00-2dbc41f08124
+
+
+
+
+https://github.com/lauradsc/Digital-clock/assets/99484087/85683e8e-f8f7-4352-ae89-0b7adcb70990
 
